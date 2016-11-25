@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "heroStand_3",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.25,
+  "sample": 4,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "5be3bb67-5e10-4df4-9a69-9f24ca95e091"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "204ff6df-244b-4b77-ba47-20e8d4729e04"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "8def4a9c-ced4-4461-8c01-dc49d3b192de"
+            }
+          },
+          {
+            "frame": 0.75,
+            "value": {
+              "__uuid__": "56bb0246-1807-47bd-83fb-985fa7c74cb6"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "5be3bb67-5e10-4df4-9a69-9f24ca95e091"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
