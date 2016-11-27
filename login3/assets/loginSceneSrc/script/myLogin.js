@@ -54,6 +54,22 @@ cc.Class({
     onLoad: function () {
         let self = this;
         
+        //数据传输
+        
+        if(cc.sys.isNative){
+            window.io = SocketIO;
+        }
+        else{
+            require('socket.io');
+        }
+        var socket = io('http://localhost:3000');
+        
+        //一次传递多个信息
+        //方法一：直接传对象 写法是‘{}’为一份数据 ‘：’左右为一键一值 ‘，’ 分割一条信息
+        socket.emit('login',{'name':'linhaiwei号','password':'123'});
+        
+        //数据传输
+        
         socket.on('login',function(success){
             if(success){
                 console.log(cc);
