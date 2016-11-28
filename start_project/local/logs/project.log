@@ -1,0 +1,131 @@
+2016-11-28T05:50:53.306Z - normal: Load ~/.CocosCreator/settings.json
+2016-11-28T05:50:53.340Z - normal: checking language setting...
+2016-11-28T05:50:53.342Z - normal: Language: zh
+2016-11-28T05:50:54.657Z - success: protocol editor-framework registered
+2016-11-28T05:50:54.658Z - success: protocol app registered
+2016-11-28T05:50:54.658Z - success: protocol packages registered
+2016-11-28T05:50:54.658Z - success: protocol theme registered
+2016-11-28T05:50:54.658Z - success: protocol unpack registerred
+2016-11-28T05:50:54.865Z - normal: connected!
+2016-11-28T05:50:54.880Z - normal: Check project Z:\cocosdevelop\start_project
+2016-11-28T05:50:54.890Z - normal: Initializing Cocos Creator Editor
+2016-11-28T05:50:55.903Z - normal: Initializing Cocos2d
+2016-11-28T05:50:56.784Z - normal: Initializing Asset Database
+2016-11-28T05:50:56.978Z - success: protocol uuid registerred
+2016-11-28T05:50:56.978Z - success: protocol db registerred
+2016-11-28T05:50:56.979Z - success: protocol thumbnail registerred
+2016-11-28T05:50:56.980Z - normal: Loading editor/builtin packages
+2016-11-28T05:50:57.280Z - success: assets loaded
+2016-11-28T05:50:57.283Z - success: builder loaded
+2016-11-28T05:50:57.287Z - success: hierarchy loaded
+2016-11-28T05:50:57.291Z - success: inspector loaded
+2016-11-28T05:50:57.292Z - success: keystore loaded
+2016-11-28T05:50:57.295Z - success: node-library loaded
+2016-11-28T05:50:57.298Z - success: preferences loaded
+2016-11-28T05:50:57.313Z - success: project-importer loaded
+2016-11-28T05:50:57.315Z - success: project-settings loaded
+2016-11-28T05:50:57.317Z - success: ui-kit loaded
+2016-11-28T05:50:57.319Z - success: ui-grid loaded
+2016-11-28T05:50:57.322Z - success: scene loaded
+2016-11-28T05:50:57.324Z - success: sprite-editor loaded
+2016-11-28T05:50:57.329Z - success: timeline loaded
+2016-11-28T05:50:57.330Z - normal: Loading builtin packages
+2016-11-28T05:50:57.333Z - success: asset-db-debugger loaded
+2016-11-28T05:50:57.334Z - success: code-editor loaded
+2016-11-28T05:50:57.334Z - success: color-picker loaded
+2016-11-28T05:50:57.337Z - success: console loaded
+2016-11-28T05:50:57.339Z - success: package-manager loaded
+2016-11-28T05:50:57.342Z - success: tester loaded
+2016-11-28T05:50:57.343Z - success: ui-kit-preview-extra loaded
+2016-11-28T05:50:57.344Z - success: ui-kit-preview loaded
+2016-11-28T05:50:57.345Z - success: ui-tree loaded
+2016-11-28T05:50:57.486Z - normal: Initializing project Z:\cocosdevelop\start_project
+2016-11-28T05:50:57.505Z - normal: Loading packages
+2016-11-28T05:50:57.521Z - normal: Watching packages
+2016-11-28T05:50:57.559Z - normal: Run Application
+2016-11-28T05:50:58.830Z - success: preview server running at http://localhost:7456
+2016-11-28T05:51:17.777Z - normal: 1.3.2
+2016-11-28T05:52:13.462Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2016-11-28T05:52:13.470Z - normal: Simulator: WORKAREA WIDTH 1912.00, HEIGHT 1030.00
+2016-11-28T05:52:13.471Z - normal: Simulator: FRAME SCALE = 1.00
+2016-11-28T05:52:15.051Z - normal: Simulator: Ready for GLSL
+2016-11-28T05:52:15.053Z - normal: Simulator: Ready for OpenGL 2.0
+2016-11-28T05:52:15.119Z - normal: Simulator: 
+2016-11-28T05:52:15.121Z - normal: Simulator: {
+2016-11-28T05:52:15.122Z - normal: Simulator: 	gl.version: 4.5.13416 Compatibility Profile Context 15.300.1025.1001
+2016-11-28T05:52:15.124Z - normal: Simulator: 	gl.supports_NPOT: true
+2016-11-28T05:52:15.126Z - normal: Simulator: 	cocos2d.x.version: 1.3.2-lite
+2016-11-28T05:52:15.127Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2016-11-28T05:52:15.128Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2016-11-28T05:52:15.129Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2016-11-28T05:52:15.130Z - normal: Simulator: 	gl.max_texture_size: 16384
+2016-11-28T05:52:15.132Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2016-11-28T05:52:15.134Z - normal: Simulator: 	gl.vendor: ATI Technologies Inc.
+2016-11-28T05:52:15.135Z - normal: Simulator: 	gl.renderer: AMD Radeon HD 7700 Series
+2016-11-28T05:52:15.136Z - normal: Simulator: 	gl.max_texture_units: 192
+2016-11-28T05:52:15.139Z - normal: Simulator: 	gl.supports_ETC1: false
+2016-11-28T05:52:15.144Z - normal: Simulator: 	gl.supports_PVRTC: false
+2016-11-28T05:52:15.146Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2016-11-28T05:52:15.147Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2016-11-28T05:52:15.150Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2016-11-28T05:52:15.152Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2016-11-28T05:52:15.152Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2016-11-28T05:52:15.154Z - normal: Simulator: }
+2016-11-28T05:52:15.155Z - normal: Simulator: 
+2016-11-28T05:52:15.155Z - normal: Simulator: 
+2016-11-28T05:52:15.156Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2016-11-28T05:52:15.355Z - normal: Simulator: Project Config:
+2016-11-28T05:52:15.357Z - normal: Simulator:     project dir: F:\zhaogaoxing\cocoscreator\CocosCreator\resources\cocos2d-x\simulator\win32\
+2016-11-28T05:52:15.357Z - normal: Simulator:     writable path: $(PROJDIR)\
+2016-11-28T05:52:15.361Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2016-11-28T05:52:15.365Z - normal: Simulator:     frame size: 960 x 640
+2016-11-28T05:52:15.368Z - normal: Simulator:     frame scale: 1.00
+2016-11-28T05:52:15.369Z - normal: Simulator:     show console: NO
+2016-11-28T05:52:15.370Z - normal: Simulator:     write debug log: NO ()
+2016-11-28T05:52:15.370Z - normal: Simulator:     listen: 
+2016-11-28T05:52:15.371Z - normal: Simulator:     debugger: none
+2016-11-28T05:52:15.372Z - normal: Simulator:     add searching path:
+2016-11-28T05:52:15.374Z - normal: Simulator: 
+2016-11-28T05:52:15.384Z - normal: Simulator: 
+2016-11-28T05:52:15.386Z - normal: Simulator: 
+2016-11-28T05:52:15.390Z - normal: Simulator: ------------------------------------------------
+2016-11-28T05:52:15.395Z - normal: Simulator: LOAD Js FILE: main.js
+2016-11-28T05:52:15.398Z - normal: Simulator: ------------------------------------------------
+2016-11-28T05:52:17.556Z - normal: Simulator: Cocos2d-JS v3.13
+2016-11-28T05:52:17.788Z - normal: Simulator: iShow!
+2016-11-28T05:52:32.651Z - normal: Simulator: basic_object_finalize 092315C0 ...
+2016-11-28T05:52:32.652Z - normal: Simulator: jsbindings: finalizing JS object 092315E0 (WebSocket)
+2016-11-28T05:52:32.652Z - normal: Simulator: jsbindings: finalizing JS object 09231600 (SocketIO)
+2016-11-28T05:59:20.512Z - normal: Load worker timeout, reload worker.
+2016-11-28T05:59:25.547Z - normal: Load worker timeout, reload worker.
+2016-11-28T05:59:30.595Z - normal: Load worker timeout, reload worker.
+2016-11-28T05:59:35.669Z - normal: Load worker timeout, reload worker.
+2016-11-28T05:59:40.735Z - normal: Load worker timeout, reload worker.
+2016-11-28T05:59:45.860Z - normal: Load worker timeout, reload worker.
+2016-11-28T05:59:50.926Z - normal: Load worker timeout, reload worker.
+2016-11-28T05:59:55.953Z - normal: Load worker timeout, reload worker.
+2016-11-28T06:00:01.043Z - normal: Load worker timeout, reload worker.
+2016-11-28T06:00:06.122Z - normal: Load worker timeout, reload worker.
+2016-11-28T06:00:11.203Z - normal: Load worker timeout, reload worker.
+2016-11-28T06:00:16.321Z - normal: Load worker timeout, reload worker.
+2016-11-28T06:00:21.328Z - error: Window "worker" unresponsive: [object Object]
+    at BrowserWindow.<anonymous> (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\editor-framework\lib\main\window.js:1:3069)
+    at emitOne (events.js:96:13)
+    at BrowserWindow.emit (events.js:188:7)
+2016-11-28T06:00:21.355Z - normal: Load worker timeout, reload worker.
+2016-11-28T06:00:26.431Z - normal: Load worker timeout, reload worker.
+2016-11-28T06:00:31.480Z - normal: Load worker timeout, reload worker.
+2016-11-28T06:00:36.536Z - normal: Load worker timeout, reload worker.
+2016-11-28T06:00:41.588Z - normal: Load worker timeout, reload worker.
+2016-11-28T06:00:46.631Z - normal: Load worker timeout, reload worker.
+2016-11-28T06:00:51.718Z - error: Window "worker" unresponsive: [object Object]
+    at BrowserWindow.<anonymous> (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\editor-framework\lib\main\window.js:1:3069)
+    at emitOne (events.js:96:13)
+    at BrowserWindow.emit (events.js:188:7)
+2016-11-28T06:00:51.720Z - normal: Load worker timeout, reload worker.
+2016-11-28T06:00:56.785Z - normal: Load worker timeout, reload worker.
+2016-11-28T06:01:01.851Z - normal: Load worker timeout, reload worker.
+2016-11-28T06:01:06.924Z - normal: Load worker timeout, reload worker.
+2016-11-28T06:01:11.941Z - normal: Load worker timeout, reload worker.
+2016-11-28T06:01:16.961Z - normal: Load worker timeout, reload worker.
+2016-11-28T06:01:20.675Z - info: shutdown preview server
