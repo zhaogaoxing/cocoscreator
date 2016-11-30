@@ -1,131 +1,770 @@
-2016-11-28T05:50:53.306Z - normal: Load ~/.CocosCreator/settings.json
-2016-11-28T05:50:53.340Z - normal: checking language setting...
-2016-11-28T05:50:53.342Z - normal: Language: zh
-2016-11-28T05:50:54.657Z - success: protocol editor-framework registered
-2016-11-28T05:50:54.658Z - success: protocol app registered
-2016-11-28T05:50:54.658Z - success: protocol packages registered
-2016-11-28T05:50:54.658Z - success: protocol theme registered
-2016-11-28T05:50:54.658Z - success: protocol unpack registerred
-2016-11-28T05:50:54.865Z - normal: connected!
-2016-11-28T05:50:54.880Z - normal: Check project Z:\cocosdevelop\start_project
-2016-11-28T05:50:54.890Z - normal: Initializing Cocos Creator Editor
-2016-11-28T05:50:55.903Z - normal: Initializing Cocos2d
-2016-11-28T05:50:56.784Z - normal: Initializing Asset Database
-2016-11-28T05:50:56.978Z - success: protocol uuid registerred
-2016-11-28T05:50:56.978Z - success: protocol db registerred
-2016-11-28T05:50:56.979Z - success: protocol thumbnail registerred
-2016-11-28T05:50:56.980Z - normal: Loading editor/builtin packages
-2016-11-28T05:50:57.280Z - success: assets loaded
-2016-11-28T05:50:57.283Z - success: builder loaded
-2016-11-28T05:50:57.287Z - success: hierarchy loaded
-2016-11-28T05:50:57.291Z - success: inspector loaded
-2016-11-28T05:50:57.292Z - success: keystore loaded
-2016-11-28T05:50:57.295Z - success: node-library loaded
-2016-11-28T05:50:57.298Z - success: preferences loaded
-2016-11-28T05:50:57.313Z - success: project-importer loaded
-2016-11-28T05:50:57.315Z - success: project-settings loaded
-2016-11-28T05:50:57.317Z - success: ui-kit loaded
-2016-11-28T05:50:57.319Z - success: ui-grid loaded
-2016-11-28T05:50:57.322Z - success: scene loaded
-2016-11-28T05:50:57.324Z - success: sprite-editor loaded
-2016-11-28T05:50:57.329Z - success: timeline loaded
-2016-11-28T05:50:57.330Z - normal: Loading builtin packages
-2016-11-28T05:50:57.333Z - success: asset-db-debugger loaded
-2016-11-28T05:50:57.334Z - success: code-editor loaded
-2016-11-28T05:50:57.334Z - success: color-picker loaded
-2016-11-28T05:50:57.337Z - success: console loaded
-2016-11-28T05:50:57.339Z - success: package-manager loaded
-2016-11-28T05:50:57.342Z - success: tester loaded
-2016-11-28T05:50:57.343Z - success: ui-kit-preview-extra loaded
-2016-11-28T05:50:57.344Z - success: ui-kit-preview loaded
-2016-11-28T05:50:57.345Z - success: ui-tree loaded
-2016-11-28T05:50:57.486Z - normal: Initializing project Z:\cocosdevelop\start_project
-2016-11-28T05:50:57.505Z - normal: Loading packages
-2016-11-28T05:50:57.521Z - normal: Watching packages
-2016-11-28T05:50:57.559Z - normal: Run Application
-2016-11-28T05:50:58.830Z - success: preview server running at http://localhost:7456
-2016-11-28T05:51:17.777Z - normal: 1.3.2
-2016-11-28T05:52:13.462Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
-2016-11-28T05:52:13.470Z - normal: Simulator: WORKAREA WIDTH 1912.00, HEIGHT 1030.00
-2016-11-28T05:52:13.471Z - normal: Simulator: FRAME SCALE = 1.00
-2016-11-28T05:52:15.051Z - normal: Simulator: Ready for GLSL
-2016-11-28T05:52:15.053Z - normal: Simulator: Ready for OpenGL 2.0
-2016-11-28T05:52:15.119Z - normal: Simulator: 
-2016-11-28T05:52:15.121Z - normal: Simulator: {
-2016-11-28T05:52:15.122Z - normal: Simulator: 	gl.version: 4.5.13416 Compatibility Profile Context 15.300.1025.1001
-2016-11-28T05:52:15.124Z - normal: Simulator: 	gl.supports_NPOT: true
-2016-11-28T05:52:15.126Z - normal: Simulator: 	cocos2d.x.version: 1.3.2-lite
-2016-11-28T05:52:15.127Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
-2016-11-28T05:52:15.128Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
-2016-11-28T05:52:15.129Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
-2016-11-28T05:52:15.130Z - normal: Simulator: 	gl.max_texture_size: 16384
-2016-11-28T05:52:15.132Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
-2016-11-28T05:52:15.134Z - normal: Simulator: 	gl.vendor: ATI Technologies Inc.
-2016-11-28T05:52:15.135Z - normal: Simulator: 	gl.renderer: AMD Radeon HD 7700 Series
-2016-11-28T05:52:15.136Z - normal: Simulator: 	gl.max_texture_units: 192
-2016-11-28T05:52:15.139Z - normal: Simulator: 	gl.supports_ETC1: false
-2016-11-28T05:52:15.144Z - normal: Simulator: 	gl.supports_PVRTC: false
-2016-11-28T05:52:15.146Z - normal: Simulator: 	gl.supports_BGRA8888: false
-2016-11-28T05:52:15.147Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
-2016-11-28T05:52:15.150Z - normal: Simulator: 	gl.supports_vertex_array_object: true
-2016-11-28T05:52:15.152Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
-2016-11-28T05:52:15.152Z - normal: Simulator: 	gl.supports_OES_depth24: false
-2016-11-28T05:52:15.154Z - normal: Simulator: }
-2016-11-28T05:52:15.155Z - normal: Simulator: 
-2016-11-28T05:52:15.155Z - normal: Simulator: 
-2016-11-28T05:52:15.156Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
-2016-11-28T05:52:15.355Z - normal: Simulator: Project Config:
-2016-11-28T05:52:15.357Z - normal: Simulator:     project dir: F:\zhaogaoxing\cocoscreator\CocosCreator\resources\cocos2d-x\simulator\win32\
-2016-11-28T05:52:15.357Z - normal: Simulator:     writable path: $(PROJDIR)\
-2016-11-28T05:52:15.361Z - normal: Simulator:     script file: $(PROJDIR)\main.js
-2016-11-28T05:52:15.365Z - normal: Simulator:     frame size: 960 x 640
-2016-11-28T05:52:15.368Z - normal: Simulator:     frame scale: 1.00
-2016-11-28T05:52:15.369Z - normal: Simulator:     show console: NO
-2016-11-28T05:52:15.370Z - normal: Simulator:     write debug log: NO ()
-2016-11-28T05:52:15.370Z - normal: Simulator:     listen: 
-2016-11-28T05:52:15.371Z - normal: Simulator:     debugger: none
-2016-11-28T05:52:15.372Z - normal: Simulator:     add searching path:
-2016-11-28T05:52:15.374Z - normal: Simulator: 
-2016-11-28T05:52:15.384Z - normal: Simulator: 
-2016-11-28T05:52:15.386Z - normal: Simulator: 
-2016-11-28T05:52:15.390Z - normal: Simulator: ------------------------------------------------
-2016-11-28T05:52:15.395Z - normal: Simulator: LOAD Js FILE: main.js
-2016-11-28T05:52:15.398Z - normal: Simulator: ------------------------------------------------
-2016-11-28T05:52:17.556Z - normal: Simulator: Cocos2d-JS v3.13
-2016-11-28T05:52:17.788Z - normal: Simulator: iShow!
-2016-11-28T05:52:32.651Z - normal: Simulator: basic_object_finalize 092315C0 ...
-2016-11-28T05:52:32.652Z - normal: Simulator: jsbindings: finalizing JS object 092315E0 (WebSocket)
-2016-11-28T05:52:32.652Z - normal: Simulator: jsbindings: finalizing JS object 09231600 (SocketIO)
-2016-11-28T05:59:20.512Z - normal: Load worker timeout, reload worker.
-2016-11-28T05:59:25.547Z - normal: Load worker timeout, reload worker.
-2016-11-28T05:59:30.595Z - normal: Load worker timeout, reload worker.
-2016-11-28T05:59:35.669Z - normal: Load worker timeout, reload worker.
-2016-11-28T05:59:40.735Z - normal: Load worker timeout, reload worker.
-2016-11-28T05:59:45.860Z - normal: Load worker timeout, reload worker.
-2016-11-28T05:59:50.926Z - normal: Load worker timeout, reload worker.
-2016-11-28T05:59:55.953Z - normal: Load worker timeout, reload worker.
-2016-11-28T06:00:01.043Z - normal: Load worker timeout, reload worker.
-2016-11-28T06:00:06.122Z - normal: Load worker timeout, reload worker.
-2016-11-28T06:00:11.203Z - normal: Load worker timeout, reload worker.
-2016-11-28T06:00:16.321Z - normal: Load worker timeout, reload worker.
-2016-11-28T06:00:21.328Z - error: Window "worker" unresponsive: [object Object]
+2016-11-30T01:38:31.366Z - normal: Load ~/.CocosCreator/settings.json
+2016-11-30T01:38:31.413Z - normal: checking language setting...
+2016-11-30T01:38:31.419Z - normal: Language: zh
+2016-11-30T01:38:32.833Z - success: protocol editor-framework registered
+2016-11-30T01:38:32.833Z - success: protocol app registered
+2016-11-30T01:38:32.833Z - success: protocol packages registered
+2016-11-30T01:38:32.833Z - success: protocol theme registered
+2016-11-30T01:38:32.834Z - success: protocol unpack registerred
+2016-11-30T01:38:33.020Z - normal: connected!
+2016-11-30T01:38:33.025Z - normal: Check project Z:\cocosdevelop\start_project
+2016-11-30T01:38:33.042Z - normal: Initializing Cocos Creator Editor
+2016-11-30T01:38:34.388Z - normal: Initializing Cocos2d
+2016-11-30T01:38:34.903Z - normal: Initializing Asset Database
+2016-11-30T01:38:35.044Z - success: protocol uuid registerred
+2016-11-30T01:38:35.044Z - success: protocol db registerred
+2016-11-30T01:38:35.044Z - success: protocol thumbnail registerred
+2016-11-30T01:38:35.045Z - normal: Loading editor/builtin packages
+2016-11-30T01:38:35.698Z - success: assets loaded
+2016-11-30T01:38:35.703Z - success: builder loaded
+2016-11-30T01:38:35.712Z - success: hierarchy loaded
+2016-11-30T01:38:35.720Z - success: inspector loaded
+2016-11-30T01:38:35.723Z - success: keystore loaded
+2016-11-30T01:38:35.731Z - success: node-library loaded
+2016-11-30T01:38:35.737Z - success: preferences loaded
+2016-11-30T01:38:35.762Z - success: project-importer loaded
+2016-11-30T01:38:35.765Z - success: project-settings loaded
+2016-11-30T01:38:35.768Z - success: ui-kit loaded
+2016-11-30T01:38:35.771Z - success: ui-grid loaded
+2016-11-30T01:38:35.775Z - success: scene loaded
+2016-11-30T01:38:35.777Z - success: sprite-editor loaded
+2016-11-30T01:38:35.785Z - success: timeline loaded
+2016-11-30T01:38:35.785Z - normal: Loading builtin packages
+2016-11-30T01:38:35.790Z - success: asset-db-debugger loaded
+2016-11-30T01:38:35.792Z - success: code-editor loaded
+2016-11-30T01:38:35.792Z - success: color-picker loaded
+2016-11-30T01:38:35.797Z - success: console loaded
+2016-11-30T01:38:35.799Z - success: package-manager loaded
+2016-11-30T01:38:35.804Z - success: tester loaded
+2016-11-30T01:38:35.806Z - success: ui-kit-preview-extra loaded
+2016-11-30T01:38:35.807Z - success: ui-kit-preview loaded
+2016-11-30T01:38:35.809Z - success: ui-tree loaded
+2016-11-30T01:38:35.864Z - normal: Initializing project Z:\cocosdevelop\start_project
+2016-11-30T01:38:35.867Z - normal: Loading packages
+2016-11-30T01:38:35.873Z - normal: Watching packages
+2016-11-30T01:38:35.887Z - normal: Run Application
+2016-11-30T01:38:36.899Z - success: preview server running at http://localhost:7456
+2016-11-30T01:38:54.649Z - normal: 1.3.2
+2016-11-30T01:39:44.771Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2016-11-30T01:39:44.772Z - normal: Simulator: WORKAREA WIDTH 1912.00, HEIGHT 1030.00
+2016-11-30T01:39:44.772Z - normal: Simulator: FRAME SCALE = 1.00
+2016-11-30T01:39:45.946Z - normal: Simulator: Ready for GLSL
+2016-11-30T01:39:45.951Z - normal: Simulator: Ready for OpenGL 2.0
+2016-11-30T01:39:46.010Z - normal: Simulator: 
+2016-11-30T01:39:46.013Z - normal: Simulator: {
+2016-11-30T01:39:46.014Z - normal: Simulator: 	gl.version: 4.5.13416 Compatibility Profile Context 15.300.1025.1001
+2016-11-30T01:39:46.015Z - normal: Simulator: 	gl.supports_NPOT: true
+2016-11-30T01:39:46.016Z - normal: Simulator: 	cocos2d.x.version: 1.3.2-lite
+2016-11-30T01:39:46.018Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2016-11-30T01:39:46.019Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2016-11-30T01:39:46.029Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2016-11-30T01:39:46.039Z - normal: Simulator: 	gl.max_texture_size: 16384
+2016-11-30T01:39:46.048Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2016-11-30T01:39:46.049Z - normal: Simulator: 	gl.vendor: ATI Technologies Inc.
+2016-11-30T01:39:46.051Z - normal: Simulator: 	gl.renderer: AMD Radeon HD 7700 Series
+2016-11-30T01:39:46.054Z - normal: Simulator: 	gl.max_texture_units: 192
+2016-11-30T01:39:46.067Z - normal: Simulator: 	gl.supports_ETC1: false
+2016-11-30T01:39:46.089Z - normal: Simulator: 	gl.supports_PVRTC: false
+2016-11-30T01:39:46.112Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2016-11-30T01:39:46.113Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2016-11-30T01:39:46.114Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2016-11-30T01:39:46.115Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2016-11-30T01:39:46.119Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2016-11-30T01:39:46.120Z - normal: Simulator: }
+2016-11-30T01:39:46.122Z - normal: Simulator: 
+2016-11-30T01:39:46.123Z - normal: Simulator: 
+2016-11-30T01:39:46.128Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2016-11-30T01:39:46.214Z - normal: Simulator: Project Config:
+2016-11-30T01:39:46.219Z - normal: Simulator:     project dir: F:\zhaogaoxing\cocoscreator\CocosCreator\resources\cocos2d-x\simulator\win32\
+2016-11-30T01:39:46.222Z - normal: Simulator:     writable path: $(PROJDIR)\
+2016-11-30T01:39:46.224Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2016-11-30T01:39:46.225Z - normal: Simulator:     frame size: 960 x 640
+2016-11-30T01:39:46.227Z - normal: Simulator:     frame scale: 1.00
+2016-11-30T01:39:46.228Z - normal: Simulator:     show console: NO
+2016-11-30T01:39:46.229Z - normal: Simulator:     write debug log: NO ()
+2016-11-30T01:39:46.230Z - normal: Simulator:     listen: 
+2016-11-30T01:39:46.231Z - normal: Simulator:     debugger: none
+2016-11-30T01:39:46.233Z - normal: Simulator:     add searching path:
+2016-11-30T01:39:46.237Z - normal: Simulator: 
+2016-11-30T01:39:46.240Z - normal: Simulator: 
+2016-11-30T01:39:46.241Z - normal: Simulator: 
+2016-11-30T01:39:46.242Z - normal: Simulator: ------------------------------------------------
+2016-11-30T01:39:46.244Z - normal: Simulator: LOAD Js FILE: main.js
+2016-11-30T01:39:46.245Z - normal: Simulator: ------------------------------------------------
+2016-11-30T01:39:47.988Z - normal: Simulator: Cocos2d-JS v3.13
+2016-11-30T01:39:48.064Z - normal: Simulator: iShow!
+2016-11-30T01:39:55.398Z - normal: Simulator: basic_object_finalize 039315C0 ...
+2016-11-30T01:39:55.398Z - normal: Simulator: jsbindings: finalizing JS object 039315E0 (WebSocket)
+2016-11-30T01:39:55.398Z - normal: Simulator: jsbindings: finalizing JS object 03931600 (SocketIO)
+2016-11-30T01:40:31.202Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:40:36.246Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:40:41.256Z - error: Window "worker" unresponsive: [object Object]
     at BrowserWindow.<anonymous> (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\editor-framework\lib\main\window.js:1:3069)
     at emitOne (events.js:96:13)
     at BrowserWindow.emit (events.js:188:7)
-2016-11-28T06:00:21.355Z - normal: Load worker timeout, reload worker.
-2016-11-28T06:00:26.431Z - normal: Load worker timeout, reload worker.
-2016-11-28T06:00:31.480Z - normal: Load worker timeout, reload worker.
-2016-11-28T06:00:36.536Z - normal: Load worker timeout, reload worker.
-2016-11-28T06:00:41.588Z - normal: Load worker timeout, reload worker.
-2016-11-28T06:00:46.631Z - normal: Load worker timeout, reload worker.
-2016-11-28T06:00:51.718Z - error: Window "worker" unresponsive: [object Object]
+2016-11-30T01:40:41.314Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:40:46.952Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:40:51.986Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:40:57.057Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:41:02.145Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:41:07.271Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:41:12.369Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:41:17.454Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:41:22.509Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:41:27.535Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:41:32.641Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:41:37.663Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:41:42.694Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:41:47.769Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:41:52.799Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:41:57.874Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:42:02.914Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:42:07.966Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:42:13.009Z - error: Window "worker" unresponsive: [object Object]
     at BrowserWindow.<anonymous> (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\editor-framework\lib\main\window.js:1:3069)
     at emitOne (events.js:96:13)
     at BrowserWindow.emit (events.js:188:7)
-2016-11-28T06:00:51.720Z - normal: Load worker timeout, reload worker.
-2016-11-28T06:00:56.785Z - normal: Load worker timeout, reload worker.
-2016-11-28T06:01:01.851Z - normal: Load worker timeout, reload worker.
-2016-11-28T06:01:06.924Z - normal: Load worker timeout, reload worker.
-2016-11-28T06:01:11.941Z - normal: Load worker timeout, reload worker.
-2016-11-28T06:01:16.961Z - normal: Load worker timeout, reload worker.
-2016-11-28T06:01:20.675Z - info: shutdown preview server
+2016-11-30T01:42:13.012Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:42:18.135Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:42:23.328Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:42:28.500Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:42:33.509Z - error: Window "worker" unresponsive: [object Object]
+    at BrowserWindow.<anonymous> (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\editor-framework\lib\main\window.js:1:3069)
+    at emitOne (events.js:96:13)
+    at BrowserWindow.emit (events.js:188:7)
+2016-11-30T01:42:33.597Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:42:38.610Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:42:43.676Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:42:48.693Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:42:53.792Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:42:58.885Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:43:03.893Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:43:08.936Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:43:14.042Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:43:19.094Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:43:24.171Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:43:29.251Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:43:34.299Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:43:39.391Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:43:44.488Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:43:49.562Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:43:54.669Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:43:59.753Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:44:04.880Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:44:09.894Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:44:14.919Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:44:19.953Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:44:25.054Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:44:30.074Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:44:35.123Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:44:40.208Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:44:45.222Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:44:50.304Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:44:55.329Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:45:00.350Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:45:05.407Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:45:10.489Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:45:15.549Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:45:20.628Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:45:25.675Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:45:30.772Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:45:35.802Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:45:40.884Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:45:45.905Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:45:50.943Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:45:55.999Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:45:57.574Z - error: Failed to update asset db://assets/scripts/star.js, messages: Compile error: SyntaxError: unknown: Unexpected token (13:4)
+
+    // use this for initialization
+    onLoad: function () {
+
+    },
+
+    at Parser.pp.raise (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\location.js:24:13)
+    at Parser.pp.unexpected (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\util.js:82:8)
+    at Parser.pp.expect (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\util.js:76:33)
+    at Parser.pp.parseObj (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:596:12)
+    at Parser.pp.parseExprAtom (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:392:19)
+    at Parser.parseExprAtom (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\plugins\jsx\index.js:412:22)
+    at Parser.pp.parseExprSubscripts (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:236:19)
+    at Parser.pp.parseMaybeUnary (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:217:19)
+    at Parser.pp.parseExprOps (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:163:19)
+    at Parser.pp.parseMaybeConditional (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:145:19)
+    at Parser.pp.parseMaybeAssign (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:112:19)
+    at Parser.pp.parseExprListItem (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:801:16)
+    at Parser.parseExprListItem (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\plugins\flow.js:819:24)
+    at Parser.pp.parseExprList (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:789:20)
+    at Parser.pp.parseSubscripts (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:270:29)
+    at Parser.pp.parseExprSubscripts (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:240:17)
+    at e.AssetDB.error (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\asset-db\lib\utils.js:1:2582)
+    at Object.callback (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\asset-db\core\ipc.js:1:4434)
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:906:35
+    at _arrayEach (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:85:13)
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:898:17
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:44:16
+    at e.<anonymous> (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\asset-db\index.js:1:1633)
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\asset-db\lib\tasks.js:1:20698
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:52:16
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:696:30
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:167:37
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:1209:30
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\asset-db\lib\tasks.js:1:5473
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:726:13
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:52:16
+2016-11-30T01:46:01.073Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:46:06.160Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:46:11.232Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:46:16.259Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:46:21.324Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:46:26.370Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:46:31.461Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:46:36.481Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:46:41.528Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:46:46.578Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:46:51.641Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:46:56.720Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:46:57.411Z - error: Failed to update asset db://assets/scripts/star.js, messages: Compile error: SyntaxError: unknown: Unexpected token (14:4)
+
+    // use this for initialization
+    onLoad: function () {
+
+    },
+
+    at Parser.pp.raise (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\location.js:24:13)
+    at Parser.pp.unexpected (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\util.js:82:8)
+    at Parser.pp.expect (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\util.js:76:33)
+    at Parser.pp.parseObj (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:596:12)
+    at Parser.pp.parseExprAtom (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:392:19)
+    at Parser.parseExprAtom (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\plugins\jsx\index.js:412:22)
+    at Parser.pp.parseExprSubscripts (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:236:19)
+    at Parser.pp.parseMaybeUnary (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:217:19)
+    at Parser.pp.parseExprOps (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:163:19)
+    at Parser.pp.parseMaybeConditional (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:145:19)
+    at Parser.pp.parseMaybeAssign (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:112:19)
+    at Parser.pp.parseExprListItem (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:801:16)
+    at Parser.parseExprListItem (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\plugins\flow.js:819:24)
+    at Parser.pp.parseExprList (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:789:20)
+    at Parser.pp.parseSubscripts (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:270:29)
+    at Parser.pp.parseExprSubscripts (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:240:17)
+    at e.AssetDB.error (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\asset-db\lib\utils.js:1:2582)
+    at Object.callback (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\asset-db\core\ipc.js:1:4434)
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:906:35
+    at _arrayEach (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:85:13)
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:898:17
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:44:16
+    at e.<anonymous> (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\asset-db\index.js:1:1633)
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\asset-db\lib\tasks.js:1:20698
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:52:16
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:696:30
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:167:37
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:1209:30
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\asset-db\lib\tasks.js:1:5473
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:726:13
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:52:16
+2016-11-30T01:47:00.362Z - error: Failed to update asset db://assets/scripts/star.js, messages: Compile error: SyntaxError: unknown: Unexpected token (16:4)
+
+    // use this for initialization
+    onLoad: function () {
+
+    },
+
+    at Parser.pp.raise (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\location.js:24:13)
+    at Parser.pp.unexpected (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\util.js:82:8)
+    at Parser.pp.expect (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\util.js:76:33)
+    at Parser.pp.parseObj (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:596:12)
+    at Parser.pp.parseExprAtom (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:392:19)
+    at Parser.parseExprAtom (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\plugins\jsx\index.js:412:22)
+    at Parser.pp.parseExprSubscripts (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:236:19)
+    at Parser.pp.parseMaybeUnary (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:217:19)
+    at Parser.pp.parseExprOps (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:163:19)
+    at Parser.pp.parseMaybeConditional (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:145:19)
+    at Parser.pp.parseMaybeAssign (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:112:19)
+    at Parser.pp.parseExprListItem (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:801:16)
+    at Parser.parseExprListItem (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\plugins\flow.js:819:24)
+    at Parser.pp.parseExprList (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:789:20)
+    at Parser.pp.parseSubscripts (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:270:29)
+    at Parser.pp.parseExprSubscripts (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:240:17)
+    at e.AssetDB.error (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\asset-db\lib\utils.js:1:2582)
+    at Object.callback (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\asset-db\core\ipc.js:1:4434)
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:906:35
+    at _arrayEach (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:85:13)
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:898:17
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:44:16
+    at e.<anonymous> (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\asset-db\index.js:1:1633)
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\asset-db\lib\tasks.js:1:20698
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:52:16
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:696:30
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:167:37
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:1209:30
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\asset-db\lib\tasks.js:1:5473
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:726:13
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:52:16
+2016-11-30T01:47:01.730Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:47:06.741Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:47:11.750Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:47:16.787Z - error: Failed to update asset db://assets/scripts/star.js, messages: Compile error: SyntaxError: unknown: Unexpected token (16:4)
+
+    // use this for initialization
+    onLoad: function () {
+
+    },
+
+    at Parser.pp.raise (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\location.js:24:13)
+    at Parser.pp.unexpected (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\util.js:82:8)
+    at Parser.pp.expect (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\util.js:76:33)
+    at Parser.pp.parseObj (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:596:12)
+    at Parser.pp.parseExprAtom (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:392:19)
+    at Parser.parseExprAtom (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\plugins\jsx\index.js:412:22)
+    at Parser.pp.parseExprSubscripts (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:236:19)
+    at Parser.pp.parseMaybeUnary (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:217:19)
+    at Parser.pp.parseExprOps (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:163:19)
+    at Parser.pp.parseMaybeConditional (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:145:19)
+    at Parser.pp.parseMaybeAssign (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:112:19)
+    at Parser.pp.parseExprListItem (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:801:16)
+    at Parser.parseExprListItem (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\plugins\flow.js:819:24)
+    at Parser.pp.parseExprList (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:789:20)
+    at Parser.pp.parseSubscripts (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:270:29)
+    at Parser.pp.parseExprSubscripts (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:240:17)
+    at e.AssetDB.error (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\asset-db\lib\utils.js:1:2582)
+    at Object.callback (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\asset-db\core\ipc.js:1:4434)
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:906:35
+    at _arrayEach (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:85:13)
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:898:17
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:44:16
+    at e.<anonymous> (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\asset-db\index.js:1:1633)
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\asset-db\lib\tasks.js:1:20698
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:52:16
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:696:30
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:167:37
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:1209:30
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\asset-db\lib\tasks.js:1:5473
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:726:13
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:52:16
+2016-11-30T01:47:16.796Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:47:21.824Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:47:26.898Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:47:31.938Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:47:34.106Z - error: Failed to update asset db://assets/scripts/star.js, messages: Compile error: SyntaxError: unknown: Unexpected token (16:4)
+
+    // use this for initialization
+    onLoad: function () {
+
+    },
+
+    at Parser.pp.raise (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\location.js:24:13)
+    at Parser.pp.unexpected (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\util.js:82:8)
+    at Parser.pp.expect (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\util.js:76:33)
+    at Parser.pp.parseObj (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:596:12)
+    at Parser.pp.parseExprAtom (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:392:19)
+    at Parser.parseExprAtom (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\plugins\jsx\index.js:412:22)
+    at Parser.pp.parseExprSubscripts (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:236:19)
+    at Parser.pp.parseMaybeUnary (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:217:19)
+    at Parser.pp.parseExprOps (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:163:19)
+    at Parser.pp.parseMaybeConditional (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:145:19)
+    at Parser.pp.parseMaybeAssign (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:112:19)
+    at Parser.pp.parseExprListItem (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:801:16)
+    at Parser.parseExprListItem (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\plugins\flow.js:819:24)
+    at Parser.pp.parseExprList (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:789:20)
+    at Parser.pp.parseSubscripts (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:270:29)
+    at Parser.pp.parseExprSubscripts (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:240:17)
+    at e.AssetDB.error (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\asset-db\lib\utils.js:1:2582)
+    at Object.callback (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\asset-db\core\ipc.js:1:4434)
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:906:35
+    at _arrayEach (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:85:13)
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:898:17
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:44:16
+    at e.<anonymous> (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\asset-db\index.js:1:1633)
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\asset-db\lib\tasks.js:1:20698
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:52:16
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:696:30
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:167:37
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:1209:30
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\asset-db\lib\tasks.js:1:5473
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:726:13
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:52:16
+2016-11-30T01:47:36.958Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:47:41.976Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:47:46.771Z - error: Failed to update asset db://assets/scripts/star.js, messages: Compile error: SyntaxError: unknown: Unexpected token (16:4)
+
+    // use this for initialization
+    onLoad: function () {
+
+    },
+
+    at Parser.pp.raise (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\location.js:24:13)
+    at Parser.pp.unexpected (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\util.js:82:8)
+    at Parser.pp.expect (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\util.js:76:33)
+    at Parser.pp.parseObj (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:596:12)
+    at Parser.pp.parseExprAtom (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:392:19)
+    at Parser.parseExprAtom (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\plugins\jsx\index.js:412:22)
+    at Parser.pp.parseExprSubscripts (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:236:19)
+    at Parser.pp.parseMaybeUnary (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:217:19)
+    at Parser.pp.parseExprOps (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:163:19)
+    at Parser.pp.parseMaybeConditional (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:145:19)
+    at Parser.pp.parseMaybeAssign (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:112:19)
+    at Parser.pp.parseExprListItem (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:801:16)
+    at Parser.parseExprListItem (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\plugins\flow.js:819:24)
+    at Parser.pp.parseExprList (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:789:20)
+    at Parser.pp.parseSubscripts (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:270:29)
+    at Parser.pp.parseExprSubscripts (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:240:17)
+    at e.AssetDB.error (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\asset-db\lib\utils.js:1:2582)
+    at Object.callback (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\asset-db\core\ipc.js:1:4434)
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:906:35
+    at _arrayEach (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:85:13)
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:898:17
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:44:16
+    at e.<anonymous> (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\asset-db\index.js:1:1633)
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\asset-db\lib\tasks.js:1:20698
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:52:16
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:696:30
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:167:37
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:1209:30
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\asset-db\lib\tasks.js:1:5473
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:726:13
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:52:16
+2016-11-30T01:47:47.053Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:47:52.075Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:47:56.830Z - error: Failed to update asset db://assets/scripts/star.js, messages: Compile error: SyntaxError: unknown: Unexpected token (17:4)
+
+    // use this for initialization
+    onLoad: function () {
+
+    },
+
+    at Parser.pp.raise (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\location.js:24:13)
+    at Parser.pp.unexpected (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\util.js:82:8)
+    at Parser.pp.expect (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\util.js:76:33)
+    at Parser.pp.parseObj (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:596:12)
+    at Parser.pp.parseExprAtom (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:392:19)
+    at Parser.parseExprAtom (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\plugins\jsx\index.js:412:22)
+    at Parser.pp.parseExprSubscripts (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:236:19)
+    at Parser.pp.parseMaybeUnary (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:217:19)
+    at Parser.pp.parseExprOps (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:163:19)
+    at Parser.pp.parseMaybeConditional (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:145:19)
+    at Parser.pp.parseMaybeAssign (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:112:19)
+    at Parser.pp.parseExprListItem (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:801:16)
+    at Parser.parseExprListItem (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\plugins\flow.js:819:24)
+    at Parser.pp.parseExprList (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:789:20)
+    at Parser.pp.parseSubscripts (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:270:29)
+    at Parser.pp.parseExprSubscripts (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:240:17)
+    at e.AssetDB.error (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\asset-db\lib\utils.js:1:2582)
+    at Object.callback (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\asset-db\core\ipc.js:1:4434)
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:906:35
+    at _arrayEach (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:85:13)
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:898:17
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:44:16
+    at e.<anonymous> (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\asset-db\index.js:1:1633)
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\asset-db\lib\tasks.js:1:20698
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:52:16
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:696:30
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:167:37
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:1209:30
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\asset-db\lib\tasks.js:1:5473
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:726:13
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:52:16
+2016-11-30T01:47:57.122Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:48:02.182Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:48:07.221Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:48:12.247Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:48:17.272Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:48:22.310Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:48:26.405Z - error: Failed to update asset db://assets/scripts/star.js, messages: Compile error: SyntaxError: unknown: Unexpected token (21:4)
+
+    // use this for initialization
+    onLoad: function () {
+
+    },
+
+    at Parser.pp.raise (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\location.js:24:13)
+    at Parser.pp.unexpected (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\util.js:82:8)
+    at Parser.pp.expect (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\util.js:76:33)
+    at Parser.pp.parseObj (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:596:12)
+    at Parser.pp.parseExprAtom (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:392:19)
+    at Parser.parseExprAtom (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\plugins\jsx\index.js:412:22)
+    at Parser.pp.parseExprSubscripts (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:236:19)
+    at Parser.pp.parseMaybeUnary (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:217:19)
+    at Parser.pp.parseExprOps (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:163:19)
+    at Parser.pp.parseMaybeConditional (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:145:19)
+    at Parser.pp.parseMaybeAssign (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:112:19)
+    at Parser.pp.parseExprListItem (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:801:16)
+    at Parser.parseExprListItem (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\plugins\flow.js:819:24)
+    at Parser.pp.parseExprList (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:789:20)
+    at Parser.pp.parseSubscripts (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:270:29)
+    at Parser.pp.parseExprSubscripts (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:240:17)
+    at e.AssetDB.error (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\asset-db\lib\utils.js:1:2582)
+    at Object.callback (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\asset-db\core\ipc.js:1:4434)
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:906:35
+    at _arrayEach (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:85:13)
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:898:17
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:44:16
+    at e.<anonymous> (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\asset-db\index.js:1:1633)
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\asset-db\lib\tasks.js:1:20698
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:52:16
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:696:30
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:167:37
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:1209:30
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\asset-db\lib\tasks.js:1:5473
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:726:13
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:52:16
+2016-11-30T01:48:27.383Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:48:32.421Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:48:37.473Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:48:42.499Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:48:47.527Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:48:52.622Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:48:57.655Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:49:02.665Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:49:07.747Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:49:12.769Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:49:17.782Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:49:22.798Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:49:27.812Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:49:33.400Z - normal: Compiled successfully
+2016-11-30T01:49:38.419Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:49:43.473Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:49:48.569Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:49:53.674Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:49:58.695Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:50:03.711Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:50:08.732Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:50:13.804Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:50:18.879Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:50:23.890Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:50:28.916Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:50:33.996Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:50:39.042Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:50:44.128Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:50:49.144Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:50:54.217Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:50:59.296Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:51:04.309Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:51:09.377Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:51:14.435Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:51:19.460Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:51:24.530Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:51:29.552Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:51:34.692Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:51:39.710Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:51:44.783Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:51:49.850Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:51:54.159Z - error: Failed to update asset db://assets/scripts/star.js, messages: Compile error: SyntaxError: unknown: Unexpected token (29:11)
+    
+    update:function(dt){
+        if(){
+            
+        }
+    },
+    at Parser.pp.raise (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\location.js:24:13)
+    at Parser.pp.unexpected (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\util.js:82:8)
+    at Parser.pp.parseExprAtom (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:425:12)
+    at Parser.parseExprAtom (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\plugins\jsx\index.js:412:22)
+    at Parser.pp.parseExprSubscripts (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:236:19)
+    at Parser.pp.parseMaybeUnary (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:217:19)
+    at Parser.pp.parseExprOps (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:163:19)
+    at Parser.pp.parseMaybeConditional (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:145:19)
+    at Parser.pp.parseMaybeAssign (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:112:19)
+    at Parser.pp.parseExpression (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:79:19)
+    at Parser.pp.parseParenExpression (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:439:18)
+    at Parser.pp.parseIfStatement (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\statement.js:267:20)
+    at Parser.pp.parseStatement (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\statement.js:87:19)
+    at Parser.parseStatement (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\plugins\flow.js:655:22)
+    at Parser.pp.parseBlock (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\statement.js:442:21)
+    at Parser.pp.parseFunctionBody (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\parser\expression.js:747:22)
+    at e.AssetDB.error (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\asset-db\lib\utils.js:1:2582)
+    at Object.callback (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\asset-db\core\ipc.js:1:4434)
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:906:35
+    at _arrayEach (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:85:13)
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:898:17
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:44:16
+    at e.<anonymous> (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\asset-db\index.js:1:1633)
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\asset-db\lib\tasks.js:1:20698
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:52:16
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:696:30
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:167:37
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:1209:30
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\asset-db\lib\tasks.js:1:5473
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:726:13
+    at F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:52:16
+2016-11-30T01:51:54.862Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:52:00.075Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:52:05.218Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:52:10.275Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:52:15.350Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:52:20.406Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:52:25.436Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:52:30.441Z - error: Window "worker" unresponsive: [object Object]
+    at BrowserWindow.<anonymous> (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\editor-framework\lib\main\window.js:1:3069)
+    at emitOne (events.js:96:13)
+    at BrowserWindow.emit (events.js:188:7)
+2016-11-30T01:52:30.453Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:52:35.553Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:52:40.652Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:52:45.732Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:52:50.769Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:52:55.836Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:53:00.894Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:53:05.939Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:53:10.982Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:53:16.006Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:53:21.019Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:53:26.045Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:53:31.338Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:53:36.385Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:53:41.399Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:53:46.413Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:53:51.446Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:53:56.453Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:54:01.498Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:54:06.520Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:54:11.548Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:54:16.584Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:54:21.625Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:54:26.678Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:54:31.767Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:54:36.806Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:54:41.841Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:54:46.860Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:54:51.891Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:54:56.920Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:55:01.960Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:55:07.002Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:55:12.004Z - error: Window "worker" unresponsive: [object Object]
+    at BrowserWindow.<anonymous> (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\editor-framework\lib\main\window.js:1:3069)
+    at emitOne (events.js:96:13)
+    at BrowserWindow.emit (events.js:188:7)
+2016-11-30T01:55:12.014Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:55:17.056Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:55:22.094Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:55:27.129Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:55:32.192Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:55:37.270Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:55:42.317Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:55:47.379Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:55:52.417Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:55:57.453Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:56:02.491Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:56:07.524Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:56:12.603Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:56:17.675Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:56:22.715Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:56:27.762Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:56:32.779Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:56:37.810Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:56:42.879Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:56:47.990Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:56:53.012Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:56:58.016Z - error: Window "worker" unresponsive: [object Object]
+    at BrowserWindow.<anonymous> (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\editor-framework\lib\main\window.js:1:3069)
+    at emitOne (events.js:96:13)
+    at BrowserWindow.emit (events.js:188:7)
+2016-11-30T01:56:58.023Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:57:03.062Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:57:08.139Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:57:13.220Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:57:18.299Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:57:23.329Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:57:28.412Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:57:33.453Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:57:38.471Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:57:43.498Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:57:48.590Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:57:53.602Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:57:58.654Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:58:04.442Z - normal: Compiled successfully
+2016-11-30T01:58:09.581Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:58:14.588Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:58:20.218Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:58:25.251Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:58:30.348Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:58:35.403Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:58:40.482Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:58:45.528Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:58:50.546Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:58:55.584Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:59:00.647Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:59:05.673Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:59:10.743Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:59:15.772Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:59:20.794Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:59:25.875Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:59:31.363Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:59:36.382Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:59:41.414Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:59:46.445Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:59:51.451Z - error: Window "worker" unresponsive: [object Object]
+    at BrowserWindow.<anonymous> (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\editor-framework\lib\main\window.js:1:3069)
+    at emitOne (events.js:96:13)
+    at BrowserWindow.emit (events.js:188:7)
+2016-11-30T01:59:51.538Z - normal: Load worker timeout, reload worker.
+2016-11-30T01:59:56.638Z - normal: Load worker timeout, reload worker.
+2016-11-30T02:00:01.673Z - normal: Load worker timeout, reload worker.
+2016-11-30T02:00:06.692Z - normal: Load worker timeout, reload worker.
+2016-11-30T02:00:11.761Z - normal: Load worker timeout, reload worker.
+2016-11-30T02:00:16.787Z - normal: Load worker timeout, reload worker.
+2016-11-30T02:00:21.827Z - normal: Load worker timeout, reload worker.
+2016-11-30T02:00:26.863Z - normal: Load worker timeout, reload worker.
+2016-11-30T02:00:31.881Z - normal: Load worker timeout, reload worker.
+2016-11-30T02:00:36.936Z - normal: Load worker timeout, reload worker.
+2016-11-30T02:00:42.008Z - normal: Load worker timeout, reload worker.
+2016-11-30T02:00:47.040Z - normal: Load worker timeout, reload worker.
+2016-11-30T02:00:52.063Z - normal: Load worker timeout, reload worker.
+2016-11-30T02:00:57.110Z - normal: Load worker timeout, reload worker.
+2016-11-30T02:01:02.157Z - normal: Load worker timeout, reload worker.
+2016-11-30T02:01:07.171Z - normal: Load worker timeout, reload worker.
+2016-11-30T02:01:12.199Z - normal: Load worker timeout, reload worker.
+2016-11-30T02:01:17.222Z - normal: Load worker timeout, reload worker.
+2016-11-30T02:01:22.238Z - normal: Load worker timeout, reload worker.
+2016-11-30T02:01:27.291Z - normal: Load worker timeout, reload worker.
+2016-11-30T02:01:32.356Z - normal: Load worker timeout, reload worker.
+2016-11-30T02:01:37.410Z - normal: Load worker timeout, reload worker.
+2016-11-30T02:01:42.437Z - normal: Load worker timeout, reload worker.
+2016-11-30T02:01:47.456Z - normal: Load worker timeout, reload worker.
+2016-11-30T02:01:52.470Z - normal: Load worker timeout, reload worker.
+2016-11-30T02:01:57.549Z - normal: Load worker timeout, reload worker.
+2016-11-30T02:02:02.620Z - normal: Load worker timeout, reload worker.
+2016-11-30T02:02:07.656Z - normal: Load worker timeout, reload worker.
+2016-11-30T02:02:12.674Z - error: Window "worker" unresponsive: [object Object]
+    at BrowserWindow.<anonymous> (F:\zhaogaoxing\cocoscreator\CocosCreator\resources\app.asar\editor-framework\lib\main\window.js:1:3069)
+    at emitOne (events.js:96:13)
+    at BrowserWindow.emit (events.js:188:7)
+2016-11-30T02:02:12.720Z - normal: Load worker timeout, reload worker.
+2016-11-30T02:02:17.766Z - normal: Load worker timeout, reload worker.
+2016-11-30T02:02:22.794Z - normal: Load worker timeout, reload worker.
+2016-11-30T02:02:27.824Z - normal: Load worker timeout, reload worker.
+2016-11-30T02:02:32.942Z - normal: Load worker timeout, reload worker.
+2016-11-30T02:02:37.964Z - normal: Load worker timeout, reload worker.
+2016-11-30T02:02:42.997Z - normal: Load worker timeout, reload worker.
+2016-11-30T02:02:48.595Z - normal: Compiled successfully
+2016-11-30T02:02:53.641Z - normal: Load worker timeout, reload worker.
+2016-11-30T02:02:58.945Z - normal: Compiled successfully
+2016-11-30T02:03:04.161Z - normal: Load worker timeout, reload worker.
+2016-11-30T02:03:09.189Z - normal: Load worker timeout, reload worker.
+2016-11-30T02:03:14.224Z - normal: Load worker timeout, reload worker.
+2016-11-30T02:03:19.240Z - normal: Load worker timeout, reload worker.
+2016-11-30T02:03:24.265Z - normal: Load worker timeout, reload worker.
+2016-11-30T02:03:29.336Z - normal: Load worker timeout, reload worker.
+2016-11-30T02:03:34.399Z - normal: Load worker timeout, reload worker.
+2016-11-30T02:03:39.430Z - normal: Load worker timeout, reload worker.
+2016-11-30T02:03:44.454Z - normal: Load worker timeout, reload worker.
+2016-11-30T02:03:49.469Z - normal: Load worker timeout, reload worker.
+2016-11-30T02:03:54.491Z - normal: Load worker timeout, reload worker.
+2016-11-30T02:03:59.515Z - normal: Load worker timeout, reload worker.
+2016-11-30T02:04:04.566Z - normal: Load worker timeout, reload worker.
+2016-11-30T02:04:09.658Z - normal: Load worker timeout, reload worker.
+2016-11-30T02:04:14.670Z - normal: Load worker timeout, reload worker.
+2016-11-30T02:04:18.755Z - normal: Compiled successfully
+2016-11-30T02:04:23.771Z - normal: Load worker timeout, reload worker.
+2016-11-30T02:04:28.462Z - normal: Compiled successfully
+2016-11-30T02:04:33.476Z - normal: Load worker timeout, reload worker.
+2016-11-30T02:04:38.468Z - normal: Compiled successfully
+2016-11-30T02:04:43.664Z - normal: Compiled successfully
+2016-11-30T02:04:48.685Z - normal: Load worker timeout, reload worker.
+2016-11-30T02:04:53.336Z - normal: Compiled successfully
+2016-11-30T02:04:58.700Z - normal: Compiled successfully
+2016-11-30T02:05:03.715Z - normal: Load worker timeout, reload worker.
+2016-11-30T02:05:08.774Z - normal: Load worker timeout, reload worker.
+2016-11-30T02:05:13.786Z - normal: Load worker timeout, reload worker.
+2016-11-30T02:05:18.798Z - normal: Load worker timeout, reload worker.
+2016-11-30T02:05:23.829Z - normal: Load worker timeout, reload worker.
+2016-11-30T02:05:28.878Z - normal: Load worker timeout, reload worker.
+2016-11-30T02:05:29.678Z - info: shutdown preview server

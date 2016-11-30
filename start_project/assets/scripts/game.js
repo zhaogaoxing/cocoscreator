@@ -17,7 +17,11 @@ cc.Class({
          player:{
             default:null,
             type:cc.Node
-         }
+         },
+         scoreDisplay:{
+            default:null,
+            type:cc.Label
+         },
     },
 
     // use this for initialization
@@ -25,7 +29,8 @@ cc.Class({
         this.groundY = this.ground.y + this.ground.height/2;
         //生成一个星星
         this.spawnNewStar();
-        
+        //初始化计分
+        this.score = 0;
         
     },
     
@@ -36,6 +41,9 @@ cc.Class({
          this.node.addChild(newStar);
          // 为星星设置一个随机位置
          newStar.setPosition(this.getNewStarPositon());
+         
+         //将game组件的实例传入星星组件
+         newStar.getComponent('Star').game = this;
     },
     
     getNewStarPositon:function(){
@@ -44,9 +52,14 @@ cc.Class({
         var randY = this.groundY + cc.random0To1() * this.player.getComponent('Player').jumpHeight +50;
         // 根据屏幕宽度，随机得到一个星星 x 坐标
         var maxX = this.node.width/2;
-        randx = cc.randomMinus1to1() * maxX;
+        randX = cc.randomMinus1to1() * maxX;
         return cc.p(randX,randY);
-    }
+    },
+    
+    gainScore:function(){
+        this.score += 1;
+        this.scoreDisplay.string = 'Score:' + this.score.toString();
+    },
 
     // called every frame, uncomment this function to activate update callback
     // update: function (dt) {
