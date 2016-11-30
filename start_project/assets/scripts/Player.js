@@ -6,12 +6,24 @@ cc.Class({
         jumpDuration:0,
         maxMoveSpeed:0,
         accel:0,
+        
+        //跳跃音效资源
+        jumpAudio:{
+            default:null,
+            url: cc.AudioClip
+        },
     },
 
     setJumpAction:function(){
         var jumpUp = cc.moveBy(this.jumpDuration, cc.p(0, this.jumpHeight)).easing(cc.easeCubicActionOut());
         var jumpDown = cc.moveBy(this.jumpDuration, cc.p(0, -this.jumpHeight)).easing(cc.easeCubicActionIn());
+        
+        var callback = cc.callFunc(this.playjumpSound,this);
         return cc.repeatForever(cc.sequence(jumpUp, jumpDown));
+    },
+    
+    playJumpSound:function(){
+        cc.audioEngine.playEffect(this.jumpAudio,false);
     },
     
     setInputControl:function(){

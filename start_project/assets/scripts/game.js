@@ -22,11 +22,21 @@ cc.Class({
             default:null,
             type:cc.Label
          },
+         scoreAudio:{
+            default:null,
+            url:cc.AudioClip
+         },
     },
 
     // use this for initialization
     onLoad: function () {
         this.groundY = this.ground.y + this.ground.height/2;
+        
+        
+        //初始化计时器
+        this.timer = 0;
+        this.starDuration = 0;
+        
         //生成一个星星
         this.spawnNewStar();
         //初始化计分
@@ -44,6 +54,10 @@ cc.Class({
          
          //将game组件的实例传入星星组件
          newStar.getComponent('Star').game = this;
+         
+         //重置计时器，根据消失时间范围随机取一个值
+         this.starDuration = this.minStarDuration + cc.random0To1()*(this.maxStarDuration-this.minStarDuration);
+         this.timer = 0;
     },
     
     getNewStarPositon:function(){
@@ -52,13 +66,30 @@ cc.Class({
         var randY = this.groundY + cc.random0To1() * this.player.getComponent('Player').jumpHeight +50;
         // 根据屏幕宽度，随机得到一个星星 x 坐标
         var maxX = this.node.width/2;
-        randX = cc.randomMinus1to1() * maxX;
+        randX = cc.randomMinus1To1() * maxX;
         return cc.p(randX,randY);
     },
     
     gainScore:function(){
         this.score += 1;
         this.scoreDisplay.string = 'Score:' + this.score.toString();
+        //播放得分音效
+        cc.audioEngine.playEffect(this.scoreAudio,false);
+    },
+    
+    gameOver:function(){
+        this.player.stopAllActions();  //停止player节点的跳跃动作
+        cc.director.loadScene('game');
+    },
+    
+    update:function(dt){
+        //每帧更新计时器，超过限度还没有生成新的星星
+        //就调用游戏失败逻辑
+        if(this.timer>this.starDuration){
+            this.gameOver();
+            return;
+        }
+        this.timer += dt;
     },
 
     // called every frame, uncomment this function to activate update callback

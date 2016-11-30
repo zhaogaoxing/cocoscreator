@@ -7,7 +7,7 @@ cc.Class({
 
     getPlayerDistance: function getPlayerDistance() {
         //根据player节点位置判断距离
-        var playerPos = this.game.palyer.getPosition();
+        var playerPos = this.game.player.getPosition();
 
         var dist = cc.pDistance(this.node.position, playerPos);
         return dist;
@@ -30,6 +30,10 @@ cc.Class({
             this.onPicked();
             return;
         }
+        //根据game脚本中的计时器更新星星的透明度
+        var opacityRatio = 1 - this.game.timer / this.game.starDuration;
+        var minOpacity = 50;
+        this.node.opacity = minOpacity + Math.floor(opacityRatio * (255 - minOpacity));
     }
 
 });
