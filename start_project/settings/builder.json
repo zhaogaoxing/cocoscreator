@@ -1,0 +1,17 @@
+{
+  "excludeScenes": [],
+  "includeAnySDK": false,
+  "includeSdk": [
+    "anysdk"
+  ],
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": true
+  },
+  "packageName": "org.cocos2d.start_project",
+  "startScene": "e2fea5b8-080f-44ba-ac6a-66beaeee08bf",
+  "title": "jumpegg",
+  "webOrientation": "auto"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "simple-panel",
+  "version": "0.0.1",
+  "description": "The package template for getting started.",
+  "author": "Cocos Creator",
+  "main": "main.js",
+  "main-menu": {
+    "i18n:MAIN_MENU.package.title/simple-panel/open": {
+      "message": "simple-panel:open"
+    },
+    "i18n:MAIN_MENU.package.title/simple-panel/hello": {
+      "message": "simple-panel:say-hello"
+    }
+  },
+  "panel": {
+    "main": "panel/index.html",
+    "type": "simple",
+    "title": "simple-panel",
+    "width": 400,
+    "height": 600
+  }
+}

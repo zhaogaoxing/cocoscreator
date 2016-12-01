@@ -1,27 +1,45 @@
 Editor.Panel.extend({
   style: `
-    :host { margin: 5px; }
-    h2 { color: #f90; }
-  `,
+    :host {
+      display: flex;
+      flex-direction: column;
+    }
+
+    .wrapper {
+      box-sizing: border-box;
+      border: 2px solid white;
+      font-size: 20px;
+      font-weight: bold;
+    }
+
+    .top {
+      height: 30px;
+      border-color: red;
+    }
+
+    .middle {
+      flex: 1;
+      border-color: green;
+    }
+
+    .bottom {
+      height: 30px;
+      border-color: blue;
+    }
+  `
+  ，
 
   template: `
-    <h2>标准面板</h2>
-    <ui-button id="btn">点击</ui-button>
-    <hr />
-    <div>状态: <span id="label">--</span></div>
+    <div class="wrapper top">
+      Top
+    </div>
+
+    <div class="wrapper middle">
+      Middle
+    </div>
+
+    <div class="wrapper bottom">
+      Bottom
+    </div>
   `,
-
-  $: {
-    btn: '#btn',
-    label: '#label',
-  },
-
-  ready () {
-    this.$btn.addEventListener('confirm', () => {
-      this.$label.innerText = '你好';
-      setTimeout(() => {
-        this.$label.innerText = '--';
-      }, 500);
-    });
-  },
 });
