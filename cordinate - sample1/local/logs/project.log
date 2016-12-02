@@ -1,109 +1,48 @@
-2016-12-02T01:49:57.960Z - normal: Load ~/.CocosCreator/settings.json
-2016-12-02T01:49:57.964Z - normal: checking language setting...
-2016-12-02T01:49:57.965Z - normal: Language: zh
-2016-12-02T01:49:57.965Z - warn: Invalid layout profile, remove old profile and init a new one at: Z:\cocosdevelop\cordinate - sample1\local\layout.windows.json
-2016-12-02T01:49:59.058Z - success: protocol editor-framework registered
-2016-12-02T01:49:59.059Z - success: protocol app registered
-2016-12-02T01:49:59.059Z - success: protocol packages registered
-2016-12-02T01:49:59.059Z - success: protocol theme registered
-2016-12-02T01:49:59.059Z - success: protocol unpack registerred
-2016-12-02T01:49:59.542Z - normal: connected!
-2016-12-02T01:49:59.543Z - normal: Check project Z:\cocosdevelop\cordinate - sample1
-2016-12-02T01:49:59.546Z - normal: Initializing Cocos Creator Editor
-2016-12-02T01:49:59.794Z - normal: Initializing Cocos2d
-2016-12-02T01:49:59.959Z - normal: Initializing Asset Database
-2016-12-02T01:49:59.976Z - success: protocol uuid registerred
-2016-12-02T01:49:59.976Z - success: protocol db registerred
-2016-12-02T01:49:59.977Z - success: protocol thumbnail registerred
-2016-12-02T01:49:59.977Z - normal: Loading editor/builtin packages
-2016-12-02T01:50:00.076Z - success: assets loaded
-2016-12-02T01:50:00.078Z - success: builder loaded
-2016-12-02T01:50:00.080Z - success: hierarchy loaded
-2016-12-02T01:50:00.082Z - success: inspector loaded
-2016-12-02T01:50:00.083Z - success: keystore loaded
-2016-12-02T01:50:00.084Z - success: node-library loaded
-2016-12-02T01:50:00.086Z - success: preferences loaded
-2016-12-02T01:50:00.097Z - success: project-importer loaded
-2016-12-02T01:50:00.098Z - success: project-settings loaded
-2016-12-02T01:50:00.099Z - success: ui-kit loaded
-2016-12-02T01:50:00.100Z - success: ui-grid loaded
-2016-12-02T01:50:00.102Z - success: scene loaded
-2016-12-02T01:50:00.103Z - success: sprite-editor loaded
-2016-12-02T01:50:00.107Z - success: timeline loaded
-2016-12-02T01:50:00.107Z - normal: Loading builtin packages
-2016-12-02T01:50:00.109Z - success: asset-db-debugger loaded
-2016-12-02T01:50:00.110Z - success: code-editor loaded
-2016-12-02T01:50:00.110Z - success: color-picker loaded
-2016-12-02T01:50:00.112Z - success: console loaded
-2016-12-02T01:50:00.113Z - success: package-manager loaded
-2016-12-02T01:50:00.116Z - success: tester loaded
-2016-12-02T01:50:00.117Z - success: ui-kit-preview-extra loaded
-2016-12-02T01:50:00.118Z - success: ui-kit-preview loaded
-2016-12-02T01:50:00.119Z - success: ui-tree loaded
-2016-12-02T01:50:00.150Z - normal: Initializing project Z:\cocosdevelop\cordinate - sample1
-2016-12-02T01:50:00.152Z - normal: Loading packages
-2016-12-02T01:50:00.156Z - normal: Watching packages
-2016-12-02T01:50:00.165Z - normal: Run Application
-2016-12-02T01:50:03.979Z - success: preview server running at http://localhost:7456
-2016-12-02T01:50:03.980Z - normal: Compiling scripts...
-2016-12-02T01:50:05.871Z - normal: Compiled successfully
-2016-12-02T01:50:09.146Z - normal: 1.3.2
-2016-12-02T01:57:25.012Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
-2016-12-02T01:57:25.015Z - normal: Simulator: WORKAREA WIDTH 1912.00, HEIGHT 1030.00
-2016-12-02T01:57:25.015Z - normal: Simulator: FRAME SCALE = 1.00
-2016-12-02T01:57:27.094Z - normal: Simulator: Ready for GLSL
-2016-12-02T01:57:27.094Z - normal: Simulator: Ready for OpenGL 2.0
-2016-12-02T01:57:27.102Z - normal: Simulator: 
-2016-12-02T01:57:27.103Z - normal: Simulator: {
-2016-12-02T01:57:27.103Z - normal: Simulator: 	gl.version: 4.5.13416 Compatibility Profile Context 15.300.1025.1001
-2016-12-02T01:57:27.103Z - normal: Simulator: 	gl.supports_NPOT: true
-2016-12-02T01:57:27.103Z - normal: Simulator: 	cocos2d.x.version: 1.3.2-lite
-2016-12-02T01:57:27.103Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
-2016-12-02T01:57:27.104Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
-2016-12-02T01:57:27.104Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
-2016-12-02T01:57:27.104Z - normal: Simulator: 	gl.max_texture_size: 16384
-2016-12-02T01:57:27.104Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
-2016-12-02T01:57:27.104Z - normal: Simulator: 	gl.vendor: ATI Technologies Inc.
-2016-12-02T01:57:27.104Z - normal: Simulator: 	gl.renderer: AMD Radeon HD 7700 Series
-2016-12-02T01:57:27.105Z - normal: Simulator: 	gl.max_texture_units: 192
-2016-12-02T01:57:27.105Z - normal: Simulator: 	gl.supports_ETC1: false
-2016-12-02T01:57:27.105Z - normal: Simulator: 	gl.supports_PVRTC: false
-2016-12-02T01:57:27.105Z - normal: Simulator: 	gl.supports_BGRA8888: false
-2016-12-02T01:57:27.105Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
-2016-12-02T01:57:27.105Z - normal: Simulator: 	gl.supports_vertex_array_object: true
-2016-12-02T01:57:27.105Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
-2016-12-02T01:57:27.105Z - normal: Simulator: 	gl.supports_OES_depth24: false
-2016-12-02T01:57:27.106Z - normal: Simulator: }
-2016-12-02T01:57:27.106Z - normal: Simulator: 
-2016-12-02T01:57:27.106Z - normal: Simulator: 
-2016-12-02T01:57:27.106Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
-2016-12-02T01:57:27.128Z - normal: Simulator: Project Config:
-2016-12-02T01:57:27.128Z - normal: Simulator:     project dir: F:\zhaogaoxing\cocoscreator\CocosCreator\resources\cocos2d-x\simulator\win32\
-2016-12-02T01:57:27.128Z - normal: Simulator:     writable path: $(PROJDIR)\
-2016-12-02T01:57:27.128Z - normal: Simulator:     script file: $(PROJDIR)\main.js
-2016-12-02T01:57:27.128Z - normal: Simulator:     frame size: 960 x 640
-2016-12-02T01:57:27.129Z - normal: Simulator:     frame scale: 1.00
-2016-12-02T01:57:27.129Z - normal: Simulator:     show console: NO
-2016-12-02T01:57:27.129Z - normal: Simulator:     write debug log: NO ()
-2016-12-02T01:57:27.129Z - normal: Simulator:     listen: 
-2016-12-02T01:57:27.129Z - normal: Simulator:     debugger: none
-2016-12-02T01:57:27.129Z - normal: Simulator:     add searching path:
-2016-12-02T01:57:27.129Z - normal: Simulator: 
-2016-12-02T01:57:27.129Z - normal: Simulator: 
-2016-12-02T01:57:27.129Z - normal: Simulator: 
-2016-12-02T01:57:27.129Z - normal: Simulator: ------------------------------------------------
-2016-12-02T01:57:27.129Z - normal: Simulator: LOAD Js FILE: main.js
-2016-12-02T01:57:27.130Z - normal: Simulator: ------------------------------------------------
-2016-12-02T01:57:28.535Z - normal: Simulator: Cocos2d-JS v3.13
-2016-12-02T01:57:28.677Z - normal: Simulator: iShow!
-2016-12-02T01:57:28.860Z - error: Simulator: 46:Error: SocketIO isn't meant to be instantiated, use SocketIO.connect() instead
-    at a (Z:\cocosdevelop\cordinate - sample1\library\bundle.project.js?009:NaN:0)
-2016-12-02T01:57:28.860Z - normal: Simulator: 
-2016-12-02T01:57:34.990Z - normal: Simulator: basic_object_finalize 078315C0 ...
-2016-12-02T01:57:34.990Z - normal: Simulator: jsbindings: finalizing JS object 078315E0 (WebSocket)
-2016-12-02T01:57:34.990Z - normal: Simulator: jsbindings: finalizing JS object 07831600 (SocketIO)
-2016-12-02T02:00:36.247Z - normal: Compiled successfully
-2016-12-02T02:00:43.779Z - normal: Compiled successfully
-2016-12-02T02:00:46.016Z - normal: Compiled successfully
-2016-12-02T02:00:56.729Z - normal: Compiled successfully
-2016-12-02T03:56:53.888Z - info: shutdown preview server
+2016-12-02T05:59:01.292Z - normal: Load ~/.CocosCreator/settings.json
+2016-12-02T05:59:01.297Z - normal: checking language setting...
+2016-12-02T05:59:01.297Z - normal: Language: zh
+2016-12-02T05:59:02.426Z - success: protocol editor-framework registered
+2016-12-02T05:59:02.427Z - success: protocol app registered
+2016-12-02T05:59:02.427Z - success: protocol packages registered
+2016-12-02T05:59:02.427Z - success: protocol theme registered
+2016-12-02T05:59:02.427Z - success: protocol unpack registerred
+2016-12-02T05:59:02.608Z - normal: connected!
+2016-12-02T05:59:02.611Z - normal: Check project Z:\cocosdevelop\cordinate - sample1
+2016-12-02T05:59:02.613Z - normal: Initializing Cocos Creator Editor
+2016-12-02T05:59:03.216Z - normal: Initializing Cocos2d
+2016-12-02T05:59:03.792Z - normal: Initializing Asset Database
+2016-12-02T05:59:03.831Z - success: protocol uuid registerred
+2016-12-02T05:59:03.831Z - success: protocol db registerred
+2016-12-02T05:59:03.832Z - success: protocol thumbnail registerred
+2016-12-02T05:59:03.832Z - normal: Loading editor/builtin packages
+2016-12-02T05:59:03.974Z - success: assets loaded
+2016-12-02T05:59:03.976Z - success: builder loaded
+2016-12-02T05:59:03.981Z - success: hierarchy loaded
+2016-12-02T05:59:03.983Z - success: inspector loaded
+2016-12-02T05:59:03.986Z - success: keystore loaded
+2016-12-02T05:59:03.988Z - success: node-library loaded
+2016-12-02T05:59:03.990Z - success: preferences loaded
+2016-12-02T05:59:04.004Z - success: project-importer loaded
+2016-12-02T05:59:04.006Z - success: project-settings loaded
+2016-12-02T05:59:04.008Z - success: ui-kit loaded
+2016-12-02T05:59:04.042Z - success: ui-grid loaded
+2016-12-02T05:59:04.046Z - success: scene loaded
+2016-12-02T05:59:04.047Z - success: sprite-editor loaded
+2016-12-02T05:59:04.052Z - success: timeline loaded
+2016-12-02T05:59:04.052Z - normal: Loading builtin packages
+2016-12-02T05:59:04.063Z - success: asset-db-debugger loaded
+2016-12-02T05:59:04.064Z - success: code-editor loaded
+2016-12-02T05:59:04.074Z - success: color-picker loaded
+2016-12-02T05:59:04.077Z - success: console loaded
+2016-12-02T05:59:04.079Z - success: package-manager loaded
+2016-12-02T05:59:04.084Z - success: tester loaded
+2016-12-02T05:59:04.085Z - success: ui-kit-preview-extra loaded
+2016-12-02T05:59:04.087Z - success: ui-kit-preview loaded
+2016-12-02T05:59:04.088Z - success: ui-tree loaded
+2016-12-02T05:59:04.245Z - normal: Initializing project Z:\cocosdevelop\cordinate - sample1
+2016-12-02T05:59:04.248Z - normal: Loading packages
+2016-12-02T05:59:04.251Z - normal: Watching packages
+2016-12-02T05:59:04.276Z - normal: Run Application
+2016-12-02T05:59:05.194Z - success: preview server running at http://localhost:7456
+2016-12-02T05:59:10.043Z - normal: 1.3.2
+2016-12-02T06:21:50.951Z - info: shutdown preview server
