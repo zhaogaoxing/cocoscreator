@@ -20,12 +20,36 @@ cc.Class({
     },
     
     login:function(){
+        if(this.isEmpty(this.getUserName(),this.getPassword())){
+            this.serverFeedback.string = this.emptyText; return;
+        }else{
+            socket.emit('login',{
+                userName:this.getUserName(),
+                password:this.getPassword(),
+            });
+        }
+    },
+    
+    isEmpty:function(){
+        console.log(userName);
+        console.log(password);
         
+        if(userName == ''|| password == '')return true;
+        if(userName[0] == 'e') return true;
+        return false;
+    },
+    
+    getUserName:function(){
+        return this.userNameInput.string;
+    },
+    getPassword:function(){
+        return this.passwordInput.getComponent('myPasswordInput').passwordText;
     },
 
     // use this for initialization
     onLoad: function () {
         let self = this;
+        
         
         socket.on('login',function(success){
             if(success){

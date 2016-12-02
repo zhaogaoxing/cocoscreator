@@ -57,7 +57,7 @@ cc.Class({
                 onKeyPressed:function(keyCode,event){
                     if(!self.focus) return;
                     if(keyCode == cc.KEY.backspace){
-                        self.passwordText = self.passwordInput.string.slice(0,-1);
+                        self.passwordText = self.passwordText.slice(0,-1);
                         self.passwordInput.string = self.passwordInput.string.slice(0, -1);
                         return;
                     }

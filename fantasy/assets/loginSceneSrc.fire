@@ -99,10 +99,10 @@
     "_active": true,
     "_components": [
       {
-        "__id__": 32
+        "__id__": 33
       },
       {
-        "__id__": 33
+        "__id__": 34
       }
     ],
     "_prefab": null,
@@ -223,13 +223,13 @@
         "__id__": 22
       },
       {
-        "__id__": 26
+        "__id__": 27
       },
       {
         "__id__": 19
       },
       {
-        "__id__": 28
+        "__id__": 29
       }
     ],
     "_rotationX": 0,
@@ -251,10 +251,10 @@
     "_active": true,
     "_components": [
       {
-        "__id__": 30
+        "__id__": 31
       },
       {
-        "__id__": 31
+        "__id__": 32
       }
     ],
     "_prefab": null,
@@ -796,7 +796,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 215,
+      "width": 218.45,
       "height": 40
     },
     "_children": [],
@@ -885,7 +885,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 202,
+      "width": 205.11,
       "height": 40
     },
     "_children": [],
@@ -989,7 +989,11 @@
     "hoverSprite": {
       "__uuid__": "e9ec654c-97a2-4787-9325-e6a10375219a"
     },
-    "clickEvents": [],
+    "clickEvents": [
+      {
+        "__id__": 26
+      }
+    ],
     "_N$interactable": true,
     "_N$enableAutoGrayEffect": false,
     "_N$normalColor": {
@@ -1017,6 +1021,15 @@
     }
   },
   {
+    "__type__": "cc.ClickEvent",
+    "target": {
+      "__id__": 14
+    },
+    "component": "myLogin",
+    "handler": "login",
+    "customEventData": ""
+  },
+  {
     "__type__": "cc.Node",
     "_name": "password",
     "_objFlags": 0,
@@ -1039,7 +1052,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 135,
+      "width": 136.73,
       "height": 40
     },
     "_children": [],
@@ -1062,7 +1075,7 @@
     "_active": true,
     "_components": [
       {
-        "__id__": 27
+        "__id__": 28
       }
     ],
     "_prefab": null,
@@ -1073,7 +1086,7 @@
     "_name": "",
     "_objFlags": 0,
     "node": {
-      "__id__": 26
+      "__id__": 27
     },
     "_enabled": true,
     "_useOriginalSize": false,
@@ -1111,7 +1124,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 145,
+      "width": 146.72,
       "height": 40
     },
     "_children": [],
@@ -1134,7 +1147,7 @@
     "_active": true,
     "_components": [
       {
-        "__id__": 29
+        "__id__": 30
       }
     ],
     "_prefab": null,
@@ -1145,7 +1158,7 @@
     "_name": "",
     "_objFlags": 0,
     "node": {
-      "__id__": 28
+      "__id__": 29
     },
     "_enabled": true,
     "_useOriginalSize": false,
