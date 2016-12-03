@@ -8,7 +8,7 @@ var pool = mysql.createPool({   //创建从nodejs到mysql的链接
 	database: 'db_user'
 });
 
-pool.query({sql:'select * from t_user wherw t_user.userName=? and t_user.password=?',
+pool.query({sql:'select * from t_user where t_user.userName=? and t_user.password=?',
 			values: ['zhaowei','123']
 			}
 	,function(err,rows,fields){
