@@ -1,6 +1,10 @@
 {
   "ver": "1.0.0",
+<<<<<<< HEAD
   "uuid": "337e59cf-8930-41b5-aff9-4cc477b91b5c",
+=======
+  "uuid": "8d5b8d47-afb4-40cd-9dfa-bd832acbac1c",
+>>>>>>> 6d1254f8c6ba60a93513a0cdfd520dd00b0378ef
   "asyncLoadAssets": false,
   "autoReleaseAssets": false,
   "subMetas": {}
